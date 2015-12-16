@@ -14,7 +14,7 @@ Look no further.
 ### Our Solar System
 
 `python sim_mpl.py home3`
-Works. Pretty phresh. See it on (YouTube)[https://youtu.be/C2nn2NuIUGw]
+Works. Pretty phresh. See it on [YouTube](https://youtu.be/C2nn2NuIUGw)
 
 ### Alpha Centauri
 
